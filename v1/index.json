@@ -1,0 +1,63 @@
+{
+  "name": "FraudCoins public dataset",
+  "version": "v1",
+  "generatedAt": "2026-08-29T23:21:13.455Z",
+  "day": "2026-08-29",
+  "documentation": "https://fraudcoins.com/data/",
+  "methodology": "https://fraudcoins.com/methodology/",
+  "licence": {
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "FraudCoins.com (2026). On-chain holder-concentration dataset. https://fraudcoins.com/data/"
+  },
+  "updateCadence": "assets above $50M market cap: daily. $10M–$50M tier: rotated, at most every 10 days. Read each row's sampledAt for the authoritative date.",
+  "access": "static JSON over HTTPS — no key, no registration, no rate limit; CORS enabled",
+  "endpoints": [
+    {
+      "url": "https://fraudcoins.com/dataset/v1/index.json",
+      "title": "Discovery",
+      "description": "This document."
+    },
+    {
+      "url": "https://fraudcoins.com/concentration.json",
+      "title": "Holder concentration",
+      "description": "Top-10 holder share per measured token, corrected and uncorrected, with the sample size and measurement date."
+    },
+    {
+      "url": "https://fraudcoins.com/dataset/v1/excluded-holders.json",
+      "title": "Correction evidence",
+      "description": "The wallets excluded from each top-10 figure, with the reason and stake size."
+    },
+    {
+      "url": "https://fraudcoins.com/dataset/v1/contract-permissions.json",
+      "title": "Contract permissions",
+      "description": "Owner privileges and structural contract properties, as reported by GoPlus Labs static analysis."
+    },
+    {
+      "url": "https://fraudcoins.com/scores.json",
+      "title": "Risk verdicts",
+      "description": "Frozen daily risk score, level and flags per coin."
+    },
+    {
+      "url": "https://fraudcoins.com/history.json",
+      "title": "Concentration history",
+      "description": "Dated concentration series per coin, up to 180 points."
+    },
+    {
+      "url": "https://fraudcoins.com/alerts.json",
+      "title": "Recent flags",
+      "description": "Concentration events by day. Most entries are kind \"first-measured\" (the asset was measured for the first time and was already above the threshold); \"crossed\" means it moved across the threshold between two measurements."
+    },
+    {
+      "url": "https://fraudcoins.com/coins-index.json",
+      "title": "Coin index",
+      "description": "id, name and symbol for every actively-listed asset. Delisted pages are excluded."
+    },
+    {
+      "url": "https://fraudcoins.com/llms.txt",
+      "title": "LLM summary",
+      "description": "Plain-text orientation for language models."
+    }
+  ],
+  "disclaimer": "Risk scores and flags are automated, opinion-based assessments derived from public market data. They are not statements of fact, financial advice, or allegations of illegal conduct against any project or person. Contract permissions are read from deployed bytecode and are factual. Excluded-holder classifications rely on third-party address labels, which are reproduced verbatim so they can be checked; an unlabelled custodial wallet is counted as private."
+}

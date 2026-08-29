@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: FraudCoins on-chain holder-concentration dataset
+message: If you use this dataset, please cite it as below.
+type: dataset
+authors:
+  - name: FraudCoins.com
+    website: https://fraudcoins.com
+abstract: >-
+  Recurring on-chain measurements of top-10 holder concentration for
+  cryptocurrency tokens — refreshed daily above $50M market cap and on a
+  rotating schedule for the $10M-$50M tier — corrected by classifying
+  exchange, market-maker, treasury, liquidity
+  pool, staking, bridge, multisig and burn wallets out of the count, with the
+  excluded wallets published as evidence. Includes contract-permission facts
+  from third-party static analysis of the deployed contract.
+keywords:
+  - cryptocurrency
+  - blockchain
+  - token holder concentration
+  - on-chain analysis
+  - smart contract permissions
+license: CC-BY-4.0
+url: https://fraudcoins.com/data/
+repository-code: https://github.com/devhumancode/fraudcoins-dataset
+date-released: 2026-08-29
+version: v1
