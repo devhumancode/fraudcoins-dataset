@@ -28,9 +28,16 @@ v1/contract-permissions.json  owner privileges + structural contract properties
 v1/scores.json                composite risk score, level and flags
 v1/history.json               concentration series (see convention 2)
 v1/coins-index.json           id / name / symbol for every asset covered
-v1/alerts.json                concentration events by day
+v1/alerts.json                concentration events by day (see note below)
 v1/index.json                 discovery document: endpoints, licence, cadence
 ```
+
+**Reading `alerts.json` correctly:** most entries carry `kind: "first-measured"`
+— the asset was measured for the first time and was already above the threshold.
+Only `kind: "crossed"` means it moved across the threshold between two
+measurements. In the current snapshot that is 95 vs 6. Reading a
+`first-measured` entry as "this project newly deteriorated on this date" would
+be wrong, and it names real projects, so the distinction matters.
 
 `index.json`, `excluded-holders.json` and `contract-permissions.json` are also
 served live at `https://fraudcoins.com/dataset/v1/`; the other five sit at the
