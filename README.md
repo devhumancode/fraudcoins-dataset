@@ -1,5 +1,7 @@
 # FraudCoins open dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22494421.svg)](https://doi.org/10.5281/zenodo.22494421) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 On-chain **holder-concentration** measurements and **contract-permission** data
 for cryptocurrency tokens, published as plain JSON under CC BY 4.0.
 
@@ -101,8 +103,13 @@ including commercially, with attribution.
 
 ```
 FraudCoins.com (2026). On-chain holder-concentration dataset.
-https://fraudcoins.com/data/
+https://doi.org/10.5281/zenodo.22494421
 ```
+
+The DOI above is the **concept DOI** — it always resolves to the latest archived
+version, so a citation using it stays correct as the dataset is re-released.
+Each release also receives its own version DOI if you need to pin an exact
+snapshot. Archived at CERN's Zenodo.
 
 Methodology: <https://fraudcoins.com/methodology/> ·
 Corrections: <https://fraudcoins.com/corrections/>

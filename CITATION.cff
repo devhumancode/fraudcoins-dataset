@@ -20,7 +20,8 @@ keywords:
   - on-chain analysis
   - smart contract permissions
 license: CC-BY-4.0
-url: https://fraudcoins.com/data/
+doi: 10.5281/zenodo.22494421
+url: https://doi.org/10.5281/zenodo.22494421
 repository-code: https://github.com/devhumancode/fraudcoins-dataset
 date-released: 2026-08-29
-version: v1
+version: v1.0.0
