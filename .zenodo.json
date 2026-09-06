@@ -4,9 +4,11 @@
   "license": "cc-by-4.0",
   "title": "FraudCoins open dataset: on-chain holder concentration and contract permissions",
   "creators": [
-    { "name": "FraudCoins.com" }
+    {
+      "name": "FraudCoins.com"
+    }
   ],
-  "description": "<p>On-chain <strong>holder-concentration</strong> measurements and <strong>contract-permission</strong> data for cryptocurrency tokens, published as plain JSON under CC BY 4.0.</p><p>A raw &quot;top 10 holders hold X%&quot; figure counts whatever the ten largest addresses happen to be &mdash; routinely an exchange's omnibus wallet, a liquidity pool, a bridge contract, a locked treasury or a burn address. This dataset classifies each of the ten largest holders first, publishes the share held by <strong>private wallets only</strong>, and names each wallet set aside with its classification and stake, so the correction can be verified on a block explorer rather than taken on trust.</p><p><strong>Reading it correctly:</strong> <code>null</code> means no measurement, never a clean result. A flat interval in the history series means no observed change, not a daily re-measurement. Flag thresholds are per tier (50% above $50M market cap, 70% for the rotated $10M&ndash;$50M tier) and require at least 50 holder records.</p><p><strong>Limitations:</strong> holder classification relies on public address labels, so an unlabelled custodial wallet is counted as private and every correction is a floor rather than a complete accounting. Excluded supply is not automatically harmless &mdash; treasury and vesting holdings can reach the market on unlock. Contract data comes from third-party static analysis of the deployed contract; trade-simulation verdicts (honeypot, cannot-sell-all, taxes) are deliberately excluded because they produce false positives on legitimate, freely-traded assets. Risk scores and flags are automated, opinion-based assessments derived from public market data &mdash; not statements of fact, financial advice, or allegations of illegal conduct against any project or person.</p>",
+  "description": "<p>On-chain <strong>holder-concentration</strong> measurements and <strong>contract-permission</strong> data for cryptocurrency tokens, published as plain JSON under CC BY 4.0.</p><p>A raw &quot;top 10 holders hold X%&quot; figure counts whatever the ten largest addresses happen to be &mdash; routinely an exchange's omnibus wallet, a liquidity pool, a bridge contract, a locked treasury or a burn address. This dataset classifies each of the ten largest holders first, publishes the share held by <strong>private wallets only</strong>, and names each wallet set aside with its classification and stake, so the correction can be verified on a block explorer rather than taken on trust.</p><p><strong>Reading it correctly:</strong> <code>null</code> means no measurement, never a clean result. A flat interval in the history series means no observed change, not a daily re-measurement. Flag thresholds are per tier (50% above 50 million USD market cap, 70% for the rotated 10&ndash;50 million USD tier) and require at least 50 holder records.</p><p><strong>Limitations:</strong> holder classification relies on public address labels, so an unlabelled custodial wallet is counted as private and every correction is a floor rather than a complete accounting. Excluded supply is not automatically harmless &mdash; treasury and vesting holdings can reach the market on unlock. Contract data comes from third-party static analysis of the deployed contract; trade-simulation verdicts (honeypot, cannot-sell-all, taxes) are deliberately excluded because they produce false positives on legitimate, freely-traded assets. Risk scores and flags are automated, opinion-based assessments derived from public market data &mdash; not statements of fact, financial advice, or allegations of illegal conduct against any project or person.</p>",
   "keywords": [
     "cryptocurrency",
     "blockchain",
@@ -18,7 +20,15 @@
     "crypto risk"
   ],
   "related_identifiers": [
-    { "identifier": "https://fraudcoins.com/data/", "relation": "isDocumentedBy", "resource_type": "other" },
-    { "identifier": "https://fraudcoins.com/methodology/", "relation": "isDocumentedBy", "resource_type": "other" }
+    {
+      "identifier": "https://fraudcoins.com/data/",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://fraudcoins.com/methodology/",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    }
   ]
 }

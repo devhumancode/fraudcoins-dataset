@@ -62,13 +62,13 @@ no rate limit.
    `asOf` in `scores.json`, `measuredAt` in `contract-permissions.json`. Read it
    rather than assuming a figure is current.
 4. **Flag thresholds are per tier, defined in `concentration.json`'s `tiers`
-   array** — 50% for assets above $50M market cap, 70% for the rotated
-   $10M–$50M tier where high concentration is close to ordinary. A flag also
+   array** — 50% for assets above 50 million USD market cap, 70% for the rotated
+   10–50 million USD tier where high concentration is close to ordinary. A flag also
    requires at least 50 holder records.
 
 ## Coverage is uneven, on purpose
 
-Assets above $50M are re-measured daily. The $10M–$50M tier is rotated, so those
+Assets above 50 million USD are re-measured daily. The 10–50 million USD tier is rotated, so those
 readings are older — 170 of the 226 rows were measured on the snapshot date; the
 rest carry an earlier date in `sampledAt`. Correction evidence exists for the
 125 assets whose most recent measurement recorded it.
