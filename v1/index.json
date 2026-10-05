@@ -1,7 +1,7 @@
 {
   "name": "FraudCoins public dataset",
   "version": "v1",
-  "generatedAt": "2026-10-05T04:32:00.195Z",
+  "generatedAt": "2026-10-05T21:03:38.321Z",
   "day": "2026-10-05",
   "documentation": "https://fraudcoins.com/data/",
   "methodology": "https://fraudcoins.com/methodology/",
@@ -10,7 +10,7 @@
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "FraudCoins.com (2026). On-chain holder-concentration dataset. https://fraudcoins.com/data/"
   },
-  "updateCadence": "assets above $50M market cap: daily. $10M–$50M tier: rotated, at most every 10 days. Read each row's sampledAt for the authoritative date.",
+  "updateCadence": "The pipeline runs daily. Assets above $50M market cap are re-measured in rotation, each every few days. The $10M–$50M tier is measured only when capacity allows. Read each row's sampledAt for the authoritative date.",
   "access": "static JSON over HTTPS — no key, no registration, no rate limit; CORS enabled",
   "endpoints": [
     {
