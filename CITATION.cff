@@ -7,8 +7,8 @@ authors:
     website: https://fraudcoins.com
 abstract: >-
   Recurring on-chain measurements of top-10 holder concentration for
-  cryptocurrency tokens — refreshed daily above $50M market cap and on a
-  rotating schedule for the $10M-$50M tier — corrected by classifying
+  cryptocurrency tokens — re-measured in rotation, each asset every few days
+  above 50 million USD market cap and less often below it — corrected by classifying
   exchange, market-maker, treasury, liquidity
   pool, staking, bridge, multisig and burn wallets out of the count, with the
   excluded wallets published as evidence. Includes contract-permission facts

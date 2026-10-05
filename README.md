@@ -68,10 +68,11 @@ no rate limit.
 
 ## Coverage is uneven, on purpose
 
-Assets above 50 million USD are re-measured daily. The 10–50 million USD tier is rotated, so those
-readings are older — 170 of the 226 rows were measured on the snapshot date; the
-rest carry an earlier date in `sampledAt`. Correction evidence exists for the
-125 assets whose most recent measurement recorded it.
+The pipeline runs daily and re-measures assets above 50 million USD in rotation, each every
+few days. The 10–50 million USD tier is measured only when capacity allows, so those
+readings are older. The stats line at the top says how many rows were taken on the
+snapshot date; the rest carry an earlier date in `sampledAt`. Correction evidence
+exists for the assets whose most recent measurement recorded it.
 
 Rows with fewer than 10 usable holder records are not published at all: a "top
 ten" computed from four addresses is not a meaningful quantity.
