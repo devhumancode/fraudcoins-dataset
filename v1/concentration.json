@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T05:29:15.370Z",
+  "generatedAt": "2026-10-29T06:14:53.454Z",
   "thresholdPct": 50,
   "minMarketCap": 50000000,
   "tiers": [
@@ -41,17 +41,17 @@
       "source": "blockscout",
       "partialSupply": true,
       "supplyCoverage": 0,
-      "top10Pct": 28.6,
+      "top10Pct": 28.7,
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 1,
-      "rawTop10Pct": 30.2,
+      "rawTop10Pct": 30.3,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 1,
       "holdersSampled": 95,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:14:29.383Z"
+      "sampledAt": "2026-10-29T05:38:14.059Z"
     },
     "shiba-inu": {
       "chain": "eth",
@@ -69,14 +69,14 @@
       "excludedFromTop10": 8,
       "holdersSampled": 67,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:14:37.015Z"
+      "sampledAt": "2026-10-29T05:38:15.671Z"
     },
     "world-liberty-financial": {
       "chain": "eth",
       "address": "0xda5e1988097297dcdc1f90d4dfe7909e847cbef6",
       "source": "blockscout",
       "supplyCoverage": 0.97,
-      "top10Pct": 83.2,
+      "top10Pct": 83,
       "flagged": false,
       "neverFlag": true,
       "contractsInTop10": 5,
@@ -86,7 +86,7 @@
       "excludedFromTop10": 3,
       "holdersSampled": 70,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:15:02.252Z"
+      "sampledAt": "2026-10-29T05:38:21.099Z"
     },
     "memecore": {
       "chain": "bsc",
@@ -113,7 +113,7 @@
       "excludedFromTop10": 2,
       "holdersSampled": 81,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:24:19.637Z"
+      "sampledAt": "2026-10-29T06:12:54.834Z"
     },
     "mantle": {
       "chain": "eth",
@@ -129,9 +129,9 @@
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 5,
-      "holdersSampled": 67,
+      "holdersSampled": 68,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:14:43.909Z"
+      "sampledAt": "2026-10-29T05:38:17.600Z"
     },
     "sky": {
       "chain": "eth",
@@ -146,9 +146,9 @@
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 4,
-      "holdersSampled": 55,
+      "holdersSampled": 56,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:15:33.107Z"
+      "sampledAt": "2026-10-29T05:38:24.548Z"
     },
     "aave": {
       "chain": "eth",
@@ -159,30 +159,30 @@
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 3,
-      "rawTop10Pct": 43.6,
+      "rawTop10Pct": 43.4,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 5,
       "holdersSampled": 71,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:14:54.095Z"
+      "sampledAt": "2026-10-29T05:38:19.354Z"
     },
     "worldcoin-wld": {
       "chain": "eth",
       "address": "0x163f8c2467924be0ae7b5347228cabf260318753",
       "source": "blockscout",
       "supplyCoverage": 1,
-      "top10Pct": 22.5,
+      "top10Pct": 22.1,
       "flagged": false,
       "neverFlag": true,
       "contractsInTop10": 7,
-      "rawTop10Pct": 66.1,
+      "rawTop10Pct": 66.3,
       "tier": "daily",
       "flagThreshold": 50,
-      "excludedFromTop10": 5,
+      "excludedFromTop10": 6,
       "holdersSampled": 84,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:16:34.975Z"
+      "sampledAt": "2026-10-29T05:39:13.515Z"
     },
     "morpho": {
       "chain": "eth",
@@ -199,7 +199,7 @@
       "excludedFromTop10": 3,
       "holdersSampled": 89,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:15:12.510Z"
+      "sampledAt": "2026-10-29T05:38:22.630Z"
     },
     "internet-computer": {
       "chain": "eth",
@@ -207,17 +207,17 @@
       "source": "blockscout",
       "partialSupply": true,
       "supplyCoverage": 0,
-      "top10Pct": 27.9,
+      "top10Pct": 27.8,
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 1,
-      "rawTop10Pct": 34.1,
+      "rawTop10Pct": 34,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 1,
       "holdersSampled": 98,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:16:25.257Z"
+      "sampledAt": "2026-10-29T05:38:29.610Z"
     },
     "pepe": {
       "chain": "eth",
@@ -228,13 +228,13 @@
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 0,
-      "rawTop10Pct": 34.5,
+      "rawTop10Pct": 35.2,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 6,
-      "holdersSampled": 56,
+      "holdersSampled": 54,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:16:16.627Z"
+      "sampledAt": "2026-10-29T05:38:28.176Z"
     },
     "stable-2": {
       "chain": "bsc",
@@ -266,14 +266,14 @@
       "excludedFromTop10": 0,
       "holdersSampled": 83,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:28:31.465Z"
+      "sampledAt": "2026-10-29T06:14:19.025Z"
     },
     "polygon-ecosystem-token": {
       "chain": "eth",
       "address": "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6",
       "source": "blockscout",
       "supplyCoverage": 1.01,
-      "top10Pct": 13.5,
+      "top10Pct": 13.4,
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 2,
@@ -281,9 +281,9 @@
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 4,
-      "holdersSampled": 64,
+      "holdersSampled": 66,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:16:50.573Z"
+      "sampledAt": "2026-10-29T05:39:16.172Z"
     },
     "audiera": {
       "chain": "bsc",
@@ -315,7 +315,7 @@
       "address": "0x57e114b691db790c35207b2e685d4a43181e6061",
       "source": "blockscout",
       "supplyCoverage": 1,
-      "top10Pct": 40.2,
+      "top10Pct": 40.3,
       "flagged": false,
       "neverFlag": true,
       "contractsInTop10": 2,
@@ -325,7 +325,7 @@
       "excludedFromTop10": 4,
       "holdersSampled": 75,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:15:47.069Z"
+      "sampledAt": "2026-10-29T05:38:26.353Z"
     },
     "render-token": {
       "chain": "eth",
@@ -342,7 +342,7 @@
       "excludedFromTop10": 4,
       "holdersSampled": 84,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:17:05.977Z"
+      "sampledAt": "2026-10-29T05:39:19.799Z"
     },
     "bianrensheng": {
       "chain": "bsc",
@@ -380,17 +380,17 @@
       "source": "blockscout",
       "partialSupply": true,
       "supplyCoverage": 0.03,
-      "top10Pct": 15.7,
+      "top10Pct": 15.8,
       "flagged": false,
       "neverFlag": true,
-      "contractsInTop10": 0,
-      "rawTop10Pct": 62.5,
+      "contractsInTop10": 1,
+      "rawTop10Pct": 61.7,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 7,
-      "holdersSampled": 82,
+      "holdersSampled": 81,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:17:18.905Z"
+      "sampledAt": "2026-10-29T05:39:21.680Z"
     },
     "lighter": {
       "chain": "eth",
@@ -401,13 +401,13 @@
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 0,
-      "rawTop10Pct": 63.9,
+      "rawTop10Pct": 64,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 2,
-      "holdersSampled": 87,
+      "holdersSampled": 88,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:16:58.882Z"
+      "sampledAt": "2026-10-29T05:39:18.034Z"
     },
     "venice-token": {
       "chain": "base",
@@ -448,13 +448,13 @@
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 4,
-      "rawTop10Pct": 62.8,
+      "rawTop10Pct": 62.9,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 3,
       "holdersSampled": 72,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:17:38.627Z"
+      "sampledAt": "2026-10-29T05:39:35.892Z"
     },
     "virtual-protocol": {
       "chain": "eth",
@@ -465,13 +465,13 @@
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 0,
-      "rawTop10Pct": 90.3,
+      "rawTop10Pct": 90.2,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 4,
       "holdersSampled": 80,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:17:56.249Z"
+      "sampledAt": "2026-10-29T05:39:40.483Z"
     },
     "hastra-prime": {
       "chain": "eth",
@@ -489,34 +489,34 @@
       "source": "blockscout",
       "partialSupply": true,
       "supplyCoverage": 0,
-      "top10Pct": 45.1,
+      "top10Pct": 44.9,
       "flagged": false,
       "neverFlag": true,
       "contractsInTop10": 1,
-      "rawTop10Pct": 45.1,
+      "rawTop10Pct": 44.9,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 0,
       "holdersSampled": 98,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:17:25.108Z"
+      "sampledAt": "2026-10-29T05:39:23.091Z"
     },
     "fetch-ai": {
       "chain": "eth",
       "address": "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85",
       "source": "blockscout",
       "supplyCoverage": 1,
-      "top10Pct": 44.3,
+      "top10Pct": 43.5,
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 4,
-      "rawTop10Pct": 47.7,
+      "rawTop10Pct": 46.9,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 3,
-      "holdersSampled": 59,
+      "holdersSampled": 58,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:18:13.043Z"
+      "sampledAt": "2026-10-29T05:39:44.834Z"
     },
     "spx6900": {
       "chain": "eth",
@@ -531,26 +531,26 @@
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 7,
-      "holdersSampled": 85,
+      "holdersSampled": 84,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:17:46.002Z"
+      "sampledAt": "2026-10-29T05:39:38.341Z"
     },
     "lido-dao": {
       "chain": "eth",
       "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
       "source": "blockscout",
       "supplyCoverage": 1,
-      "top10Pct": 17.3,
+      "top10Pct": 17.4,
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 4,
-      "rawTop10Pct": 50.5,
+      "rawTop10Pct": 50.3,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 7,
-      "holdersSampled": 67,
+      "holdersSampled": 68,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:18:29.274Z"
+      "sampledAt": "2026-10-29T05:39:48.241Z"
     },
     "bonk": {
       "chain": "eth",
@@ -558,34 +558,34 @@
       "source": "blockscout",
       "partialSupply": true,
       "supplyCoverage": 0,
-      "top10Pct": 18.8,
+      "top10Pct": 18.5,
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 3,
-      "rawTop10Pct": 23.8,
+      "rawTop10Pct": 23.5,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 3,
       "holdersSampled": 95,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:18:39.536Z"
+      "sampledAt": "2026-10-29T05:39:51.305Z"
     },
     "kite-2": {
       "chain": "eth",
       "address": "0x118b70df4f06fa5678e7d543e6066e028c8ea0c0",
       "source": "blockscout",
       "supplyCoverage": 0.98,
-      "top10Pct": 66.9,
+      "top10Pct": 68.6,
       "flagged": true,
       "neverFlag": false,
       "contractsInTop10": 10,
-      "rawTop10Pct": 66.9,
+      "rawTop10Pct": 69.2,
       "tier": "daily",
       "flagThreshold": 50,
-      "excludedFromTop10": 0,
+      "excludedFromTop10": 1,
       "holdersSampled": 97,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:27:23.652Z"
+      "sampledAt": "2026-10-29T06:13:58.741Z"
     },
     "layerzero": {
       "chain": "eth",
@@ -602,7 +602,7 @@
       "excludedFromTop10": 1,
       "holdersSampled": 90,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:18:02.698Z"
+      "sampledAt": "2026-10-29T05:39:42.404Z"
     },
     "olympus": {
       "chain": "eth",
@@ -619,7 +619,7 @@
       "excludedFromTop10": 4,
       "holdersSampled": 92,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:18:18.274Z"
+      "sampledAt": "2026-10-29T05:39:46.400Z"
     },
     "bittorrent": {
       "chain": "eth",
@@ -637,7 +637,7 @@
       "excludedFromTop10": 2,
       "holdersSampled": 97,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:18:34.547Z"
+      "sampledAt": "2026-10-29T05:39:49.778Z"
     },
     "antfun": {
       "chain": "bsc",
@@ -670,7 +670,7 @@
       "excludedFromTop10": 2,
       "holdersSampled": 97,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:18:43.834Z"
+      "sampledAt": "2026-10-29T05:39:52.800Z"
     },
     "reallink": {
       "chain": "bsc",
@@ -687,17 +687,17 @@
       "address": "0x7420b4b9a0110cdc71fb720908340c03f9bc03ec",
       "source": "blockscout",
       "supplyCoverage": 1,
-      "top10Pct": 42,
+      "top10Pct": 41.5,
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 1,
-      "rawTop10Pct": 46.3,
+      "rawTop10Pct": 47.1,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 2,
       "holdersSampled": 72,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:19:14.791Z"
+      "sampledAt": "2026-10-29T05:39:59.094Z"
     },
     "unibase": {
       "chain": "eth",
@@ -714,7 +714,7 @@
       "excludedFromTop10": 2,
       "holdersSampled": 90,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:27:14.538Z"
+      "sampledAt": "2026-10-29T06:13:55.585Z"
     },
     "peanut-2-2": {
       "chain": "bsc",
@@ -731,17 +731,17 @@
       "address": "0x4200000000000000000000000000000000000042",
       "source": "blockscout",
       "supplyCoverage": 1,
-      "top10Pct": 44.6,
+      "top10Pct": 44.7,
       "flagged": false,
       "neverFlag": true,
       "contractsInTop10": 4,
-      "rawTop10Pct": 61.2,
+      "rawTop10Pct": 61.4,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 3,
       "holdersSampled": 82,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:19:34.417Z"
+      "sampledAt": "2026-10-29T05:40:03.012Z"
     },
     "velvet": {
       "chain": "bsc",
@@ -780,13 +780,13 @@
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 1,
-      "rawTop10Pct": 68.6,
+      "rawTop10Pct": 68.5,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 7,
       "holdersSampled": 65,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:19:03.400Z"
+      "sampledAt": "2026-10-29T05:39:57.174Z"
     },
     "ultima": {
       "chain": "bsc",
@@ -854,17 +854,17 @@
       "source": "blockscout",
       "partialSupply": true,
       "supplyCoverage": 1,
-      "top10Pct": 24.1,
+      "top10Pct": 24.2,
       "flagged": false,
       "neverFlag": true,
       "contractsInTop10": 2,
-      "rawTop10Pct": 69.2,
+      "rawTop10Pct": 72,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 5,
       "holdersSampled": 73,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:20:17.176Z"
+      "sampledAt": "2026-10-29T05:40:09.767Z"
     },
     "ethereum-name-service": {
       "chain": "eth",
@@ -875,13 +875,13 @@
       "flagged": false,
       "neverFlag": true,
       "contractsInTop10": 2,
-      "rawTop10Pct": 82.6,
+      "rawTop10Pct": 82.7,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 6,
-      "holdersSampled": 71,
+      "holdersSampled": 70,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:18:53.721Z"
+      "sampledAt": "2026-10-29T05:39:55.108Z"
     },
     "the-graph": {
       "chain": "eth",
@@ -892,13 +892,13 @@
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 3,
-      "rawTop10Pct": 51.4,
+      "rawTop10Pct": 51.7,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 4,
-      "holdersSampled": 65,
+      "holdersSampled": 66,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:20:03.816Z"
+      "sampledAt": "2026-10-29T05:40:07.741Z"
     },
     "wefi": {
       "chain": "bsc",
@@ -925,7 +925,7 @@
       "excludedFromTop10": 0,
       "holdersSampled": 90,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:27:19.657Z"
+      "sampledAt": "2026-10-29T06:13:57.225Z"
     },
     "telcoin": {
       "chain": "eth",
@@ -957,41 +957,41 @@
       "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
       "source": "blockscout",
       "supplyCoverage": 1,
-      "top10Pct": 40.8,
+      "top10Pct": 41.5,
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 4,
-      "rawTop10Pct": 45.9,
+      "rawTop10Pct": 46.6,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 4,
-      "holdersSampled": 71,
+      "holdersSampled": 68,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:19:47.571Z"
+      "sampledAt": "2026-10-29T05:40:05.339Z"
     },
     "eigenlayer": {
       "chain": "eth",
       "address": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
       "source": "blockscout",
       "supplyCoverage": 1,
-      "top10Pct": 28.1,
+      "top10Pct": 28.2,
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 6,
-      "rawTop10Pct": 39.8,
+      "rawTop10Pct": 39.9,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 4,
       "holdersSampled": 81,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:20:35.341Z"
+      "sampledAt": "2026-10-29T05:57:30.365Z"
     },
     "chiliz": {
       "chain": "eth",
       "address": "0x3506424f91fd33084466f402d5d97f05f8e3b4af",
       "source": "blockscout",
       "supplyCoverage": 0.84,
-      "top10Pct": 66.6,
+      "top10Pct": 66.7,
       "flagged": false,
       "neverFlag": true,
       "contractsInTop10": 2,
@@ -1001,7 +1001,7 @@
       "excludedFromTop10": 4,
       "holdersSampled": 66,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:21:09.194Z"
+      "sampledAt": "2026-10-29T05:57:42.599Z"
     },
     "axie-infinity": {
       "chain": "eth",
@@ -1018,7 +1018,7 @@
       "excludedFromTop10": 4,
       "holdersSampled": 56,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:26:45.859Z"
+      "sampledAt": "2026-10-29T06:13:49.651Z"
     },
     "build-on": {
       "chain": "bsc",
@@ -1050,7 +1050,7 @@
       "excludedFromTop10": 1,
       "holdersSampled": 95,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:20:23.784Z"
+      "sampledAt": "2026-10-29T05:57:25.074Z"
     },
     "lido-earn-eth": {
       "chain": "eth",
@@ -1083,17 +1083,17 @@
       "address": "0x4d224452801aced8b2f0aebe155379bb5d594381",
       "source": "blockscout",
       "supplyCoverage": 1,
-      "top10Pct": 17.4,
+      "top10Pct": 17.6,
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 0,
-      "rawTop10Pct": 48.6,
+      "rawTop10Pct": 48.5,
       "tier": "daily",
       "flagThreshold": 50,
-      "excludedFromTop10": 6,
+      "excludedFromTop10": 5,
       "holdersSampled": 62,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:21:36.685Z"
+      "sampledAt": "2026-10-29T05:57:54.883Z"
     },
     "trust-wallet-token": {
       "chain": "bsc",
@@ -1115,17 +1115,17 @@
       "address": "0xa2cd3d43c775978a96bdbf12d733d5a1ed94fb18",
       "source": "blockscout",
       "supplyCoverage": 1.29,
-      "top10Pct": 20.7,
+      "top10Pct": 20.6,
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 0,
-      "rawTop10Pct": 74.8,
+      "rawTop10Pct": 74.7,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 7,
-      "holdersSampled": 63,
+      "holdersSampled": 64,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:21:51.249Z"
+      "sampledAt": "2026-10-29T06:12:02.949Z"
     },
     "decentraland": {
       "chain": "eth",
@@ -1136,13 +1136,13 @@
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 3,
-      "rawTop10Pct": 46,
+      "rawTop10Pct": 45.9,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 6,
-      "holdersSampled": 59,
+      "holdersSampled": 58,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:21:22.113Z"
+      "sampledAt": "2026-10-29T05:57:47.576Z"
     },
     "rif-token": {
       "chain": "eth",
@@ -1160,31 +1160,31 @@
       "excludedFromTop10": 1,
       "holdersSampled": 83,
       "holdersFetched": 84,
-      "sampledAt": "2026-10-27T05:14:02.260Z"
+      "sampledAt": "2026-10-29T05:38:07.991Z"
     },
     "vision-3": {
       "chain": "eth",
       "address": "0x699ccf919c1dfdfa4c374292f42cadc9899bf753",
       "source": "blockscout",
-      "supplyCoverage": 0.98,
-      "top10Pct": 27.3,
+      "supplyCoverage": 0.97,
+      "top10Pct": 26.6,
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 1,
-      "rawTop10Pct": 98,
+      "rawTop10Pct": 97.3,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 3,
       "holdersSampled": 83,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:20:46.515Z"
+      "sampledAt": "2026-10-29T05:57:34.336Z"
     },
     "the-sandbox": {
       "chain": "eth",
       "address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
       "source": "blockscout",
       "supplyCoverage": 1,
-      "top10Pct": 44.9,
+      "top10Pct": 44.7,
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 1,
@@ -1194,7 +1194,7 @@
       "excludedFromTop10": 7,
       "holdersSampled": 49,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:23:11.560Z"
+      "sampledAt": "2026-10-29T06:12:20.905Z"
     },
     "derive": {
       "chain": "eth",
@@ -1209,9 +1209,9 @@
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 1,
-      "holdersSampled": 91,
+      "holdersSampled": 92,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:20:55.260Z"
+      "sampledAt": "2026-10-29T05:57:37.405Z"
     },
     "basic-attention-token": {
       "chain": "eth",
@@ -1222,13 +1222,13 @@
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 2,
-      "rawTop10Pct": 40.3,
+      "rawTop10Pct": 40.4,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 4,
-      "holdersSampled": 66,
+      "holdersSampled": 65,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:23:36.014Z"
+      "sampledAt": "2026-10-29T06:12:26.345Z"
     },
     "humanity": {
       "chain": "eth",
@@ -1245,7 +1245,7 @@
       "excludedFromTop10": 3,
       "holdersSampled": 84,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:27:51.621Z"
+      "sampledAt": "2026-10-29T06:14:07.613Z"
     },
     "stp-network": {
       "chain": "base",
@@ -1267,17 +1267,17 @@
       "address": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989",
       "source": "blockscout",
       "supplyCoverage": 0.82,
-      "top10Pct": 64.4,
+      "top10Pct": 64.5,
       "flagged": false,
       "neverFlag": true,
       "contractsInTop10": 2,
-      "rawTop10Pct": 64.4,
+      "rawTop10Pct": 64.5,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 0,
-      "holdersSampled": 95,
+      "holdersSampled": 97,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:21:59.526Z"
+      "sampledAt": "2026-10-29T06:12:04.872Z"
     },
     "ribbita-by-virtuals": {
       "chain": "base",
@@ -1303,30 +1303,30 @@
       "flagged": false,
       "neverFlag": true,
       "contractsInTop10": 1,
-      "rawTop10Pct": 70.2,
+      "rawTop10Pct": 70.1,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 6,
       "holdersSampled": 70,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:19:31.750Z"
+      "sampledAt": "2026-10-29T05:40:01.245Z"
     },
     "shuffle-2": {
       "chain": "eth",
       "address": "0x8881562783028f5c1bcb985d2283d5e170d88888",
       "source": "blockscout",
       "supplyCoverage": 1.09,
-      "top10Pct": 86.1,
+      "top10Pct": 86,
       "flagged": true,
       "neverFlag": false,
       "contractsInTop10": 0,
-      "rawTop10Pct": 95.3,
+      "rawTop10Pct": 95.2,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 3,
       "holdersSampled": 95,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:27:29.386Z"
+      "sampledAt": "2026-10-29T06:14:00.587Z"
     },
     "manadia": {
       "chain": "bsc",
@@ -1368,7 +1368,7 @@
       "excludedFromTop10": 2,
       "holdersSampled": 94,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:22:13.922Z"
+      "sampledAt": "2026-10-29T06:12:08.733Z"
     },
     "genius-3": {
       "chain": "bsc",
@@ -1416,9 +1416,9 @@
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 5,
-      "holdersSampled": 67,
+      "holdersSampled": 68,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:22:56.048Z"
+      "sampledAt": "2026-10-29T06:12:18.648Z"
     },
     "safepal": {
       "chain": "eth",
@@ -1436,7 +1436,7 @@
       "excludedFromTop10": 4,
       "holdersSampled": 88,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:22:08.772Z"
+      "sampledAt": "2026-10-29T06:12:06.905Z"
     },
     "sosovalue": {
       "chain": "eth",
@@ -1453,7 +1453,7 @@
       "excludedFromTop10": 3,
       "holdersSampled": 86,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:28:01.910Z"
+      "sampledAt": "2026-10-29T06:14:11.258Z"
     },
     "nexus-4": {
       "chain": "eth",
@@ -1481,13 +1481,13 @@
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 0,
-      "rawTop10Pct": 43.4,
+      "rawTop10Pct": 43.5,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 9,
       "holdersSampled": 50,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:23:53.948Z"
+      "sampledAt": "2026-10-29T06:12:32.168Z"
     },
     "golem": {
       "chain": "eth",
@@ -1504,7 +1504,7 @@
       "excludedFromTop10": 4,
       "holdersSampled": 72,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:23:21.890Z"
+      "sampledAt": "2026-10-29T06:12:22.841Z"
     },
     "sentient": {
       "chain": "eth",
@@ -1521,7 +1521,7 @@
       "excludedFromTop10": 0,
       "holdersSampled": 90,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:27:45.771Z"
+      "sampledAt": "2026-10-29T06:14:05.623Z"
     },
     "newton-project": {
       "chain": "bsc",
@@ -1543,17 +1543,17 @@
       "address": "0xe76c6c83af64e4c60245d8c7de953df673a7a33d",
       "source": "blockscout",
       "supplyCoverage": 1,
-      "top10Pct": 4.4,
+      "top10Pct": 5.8,
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 5,
-      "rawTop10Pct": 80.1,
+      "rawTop10Pct": 80.2,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 5,
       "holdersSampled": 92,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:22:26.791Z"
+      "sampledAt": "2026-10-29T06:12:13.240Z"
     },
     "zksync": {
       "chain": "eth",
@@ -1561,17 +1561,17 @@
       "source": "blockscout",
       "partialSupply": true,
       "supplyCoverage": 0,
-      "top10Pct": 28.7,
+      "top10Pct": 28.4,
       "flagged": false,
       "neverFlag": true,
       "contractsInTop10": 7,
-      "rawTop10Pct": 55.5,
+      "rawTop10Pct": 55.6,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 2,
       "holdersSampled": 97,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:23:39.294Z"
+      "sampledAt": "2026-10-29T06:12:28.470Z"
     },
     "cheems-token": {
       "chain": "bsc",
@@ -1633,7 +1633,7 @@
       "excludedFromTop10": 3,
       "holdersSampled": 64,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:27:07.190Z"
+      "sampledAt": "2026-10-29T06:13:53.786Z"
     },
     "smilek": {
       "chain": "bsc",
@@ -1650,17 +1650,17 @@
       "address": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
       "source": "blockscout",
       "supplyCoverage": 1,
-      "top10Pct": 93.5,
+      "top10Pct": 92.7,
       "flagged": false,
       "neverFlag": true,
       "contractsInTop10": 5,
-      "rawTop10Pct": 93.5,
+      "rawTop10Pct": 92.7,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 0,
       "holdersSampled": 98,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:23:25.405Z"
+      "sampledAt": "2026-10-29T06:12:24.291Z"
     },
     "instadapp": {
       "chain": "eth",
@@ -1677,7 +1677,7 @@
       "excludedFromTop10": 1,
       "holdersSampled": 84,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:27:35.120Z"
+      "sampledAt": "2026-10-29T06:14:02.291Z"
     },
     "quack-ai": {
       "chain": "eth",
@@ -1695,7 +1695,7 @@
       "excludedFromTop10": 0,
       "holdersSampled": 99,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:27:39.466Z"
+      "sampledAt": "2026-10-29T06:14:03.972Z"
     },
     "unifai-network": {
       "chain": "bsc",
@@ -1717,7 +1717,7 @@
       "address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
       "source": "blockscout",
       "supplyCoverage": 0.99,
-      "top10Pct": 42.1,
+      "top10Pct": 41.9,
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 8,
@@ -1725,9 +1725,9 @@
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 5,
-      "holdersSampled": 75,
+      "holdersSampled": 74,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:24:11.995Z"
+      "sampledAt": "2026-10-29T06:12:53.002Z"
     },
     "yearn-finance": {
       "chain": "eth",
@@ -1738,20 +1738,20 @@
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 2,
-      "rawTop10Pct": 37.3,
+      "rawTop10Pct": 37.6,
       "tier": "daily",
       "flagThreshold": 50,
-      "excludedFromTop10": 4,
-      "holdersSampled": 61,
+      "excludedFromTop10": 5,
+      "holdersSampled": 60,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:24:02.346Z"
+      "sampledAt": "2026-10-29T06:12:50.680Z"
     },
     "zama": {
       "chain": "eth",
       "address": "0xa12cc123ba206d4031d1c7f6223d1c2ec249f4f3",
       "source": "blockscout",
       "supplyCoverage": 1,
-      "top10Pct": 91.6,
+      "top10Pct": 91.5,
       "flagged": false,
       "neverFlag": true,
       "contractsInTop10": 4,
@@ -1759,9 +1759,9 @@
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 4,
-      "holdersSampled": 73,
+      "holdersSampled": 74,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:22:46.041Z"
+      "sampledAt": "2026-10-29T06:12:16.585Z"
     },
     "ravedao": {
       "chain": "eth",
@@ -1809,9 +1809,9 @@
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 4,
-      "holdersSampled": 66,
+      "holdersSampled": 64,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:25:04.299Z"
+      "sampledAt": "2026-10-29T06:13:06.198Z"
     },
     "sierra-2": {
       "chain": "eth",
@@ -1869,17 +1869,17 @@
       "address": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671",
       "source": "blockscout",
       "supplyCoverage": 1,
-      "top10Pct": 54.8,
+      "top10Pct": 55.4,
       "flagged": false,
       "neverFlag": true,
       "contractsInTop10": 2,
-      "rawTop10Pct": 58.9,
+      "rawTop10Pct": 59.6,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 2,
       "holdersSampled": 75,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:25:49.238Z"
+      "sampledAt": "2026-10-29T06:13:18.159Z"
     },
     "banana-for-scale-2": {
       "chain": "bsc",
@@ -1927,24 +1927,24 @@
       "excludedFromTop10": 4,
       "holdersSampled": 95,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:23:43.220Z"
+      "sampledAt": "2026-10-29T06:12:29.939Z"
     },
     "temple": {
       "chain": "eth",
       "address": "0x470ebf5f030ed85fc1ed4c2d36b9dd02e77cf1b7",
       "source": "blockscout",
       "supplyCoverage": 1,
-      "top10Pct": 53,
+      "top10Pct": 53.1,
       "flagged": false,
       "neverFlag": true,
       "contractsInTop10": 4,
       "rawTop10Pct": 90.1,
       "tier": "daily",
       "flagThreshold": 50,
-      "excludedFromTop10": 3,
+      "excludedFromTop10": 2,
       "holdersSampled": 95,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:26:00.813Z"
+      "sampledAt": "2026-10-29T06:13:22.921Z"
     },
     "bas": {
       "chain": "bsc",
@@ -2007,17 +2007,17 @@
       "source": "blockscout",
       "partialSupply": true,
       "supplyCoverage": 0.04,
-      "top10Pct": 30.4,
+      "top10Pct": 29.6,
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 2,
-      "rawTop10Pct": 70.6,
+      "rawTop10Pct": 70.7,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 4,
-      "holdersSampled": 93,
+      "holdersSampled": 92,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:25:53.436Z"
+      "sampledAt": "2026-10-29T06:13:19.840Z"
     },
     "river": {
       "chain": "eth",
@@ -2096,9 +2096,9 @@
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 0,
-      "holdersSampled": 79,
+      "holdersSampled": 80,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:24:25.326Z"
+      "sampledAt": "2026-10-29T06:12:56.391Z"
     },
     "chip-2": {
       "chain": "eth",
@@ -2106,7 +2106,7 @@
       "source": "blockscout",
       "partialSupply": true,
       "supplyCoverage": 0,
-      "top10Pct": 70.6,
+      "top10Pct": 71.2,
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 3,
@@ -2116,7 +2116,7 @@
       "excludedFromTop10": 1,
       "holdersSampled": 99,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:27:55.912Z"
+      "sampledAt": "2026-10-29T06:14:09.334Z"
     },
     "safe": {
       "chain": "eth",
@@ -2127,13 +2127,13 @@
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 9,
-      "rawTop10Pct": 80.5,
+      "rawTop10Pct": 80.6,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 4,
       "holdersSampled": 82,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:24:39.340Z"
+      "sampledAt": "2026-10-29T06:12:59.943Z"
     },
     "infinifi-usd": {
       "chain": "eth",
@@ -2166,7 +2166,7 @@
       "excludedFromTop10": 5,
       "holdersSampled": 80,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:24:55.471Z"
+      "sampledAt": "2026-10-29T06:13:04.124Z"
     },
     "lab": {
       "chain": "bsc",
@@ -2222,13 +2222,13 @@
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 1,
-      "rawTop10Pct": 45.8,
+      "rawTop10Pct": 45.9,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 4,
       "holdersSampled": 85,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:26:21.288Z"
+      "sampledAt": "2026-10-29T06:13:37.897Z"
     },
     "linea": {
       "chain": "eth",
@@ -2246,7 +2246,7 @@
       "excludedFromTop10": 6,
       "holdersSampled": 91,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:25:38.184Z"
+      "sampledAt": "2026-10-29T06:13:15.992Z"
     },
     "billions-network": {
       "chain": "eth",
@@ -2296,7 +2296,7 @@
       "excludedFromTop10": 7,
       "holdersSampled": 37,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:25:57.696Z"
+      "sampledAt": "2026-10-29T06:13:21.448Z"
     },
     "turbo": {
       "chain": "eth",
@@ -2313,7 +2313,7 @@
       "excludedFromTop10": 8,
       "holdersSampled": 62,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:25:26.664Z"
+      "sampledAt": "2026-10-29T06:13:12.595Z"
     },
     "soon-2": {
       "chain": "bsc",
@@ -2345,7 +2345,7 @@
       "excludedFromTop10": 2,
       "holdersSampled": 98,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:25:12.196Z"
+      "sampledAt": "2026-10-29T06:13:09.293Z"
     },
     "metal-blockchain": {
       "chain": "eth",
@@ -2362,7 +2362,7 @@
       "excludedFromTop10": 0,
       "holdersSampled": 99,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:28:50.938Z"
+      "sampledAt": "2026-10-29T06:14:43.030Z"
     },
     "zilliqa": {
       "chain": "bsc",
@@ -2395,7 +2395,7 @@
       "excludedFromTop10": 9,
       "holdersSampled": 69,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:13:16.882Z"
+      "sampledAt": "2026-10-29T05:37:35.670Z"
     },
     "non-playable-coin": {
       "chain": "eth",
@@ -2410,9 +2410,9 @@
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 7,
-      "holdersSampled": 86,
+      "holdersSampled": 85,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:22:21.259Z"
+      "sampledAt": "2026-10-29T06:12:10.973Z"
     },
     "bio-protocol": {
       "chain": "eth",
@@ -2440,13 +2440,13 @@
       "flagged": false,
       "neverFlag": true,
       "contractsInTop10": 5,
-      "rawTop10Pct": 54.1,
+      "rawTop10Pct": 54.6,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 7,
-      "holdersSampled": 63,
+      "holdersSampled": 64,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:24:48.569Z"
+      "sampledAt": "2026-10-29T06:13:01.976Z"
     },
     "usdu": {
       "chain": "bsc",
@@ -2521,7 +2521,7 @@
       "excludedFromTop10": 1,
       "holdersSampled": 97,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:25:15.619Z"
+      "sampledAt": "2026-10-29T06:13:10.751Z"
     },
     "diem": {
       "chain": "base",
@@ -2551,9 +2551,9 @@
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 3,
-      "holdersSampled": 78,
+      "holdersSampled": 77,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:26:28.354Z"
+      "sampledAt": "2026-10-29T06:13:45.733Z"
     },
     "spark-2": {
       "chain": "eth",
@@ -2570,7 +2570,7 @@
       "excludedFromTop10": 6,
       "holdersSampled": 65,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:28:45.346Z"
+      "sampledAt": "2026-10-29T06:14:28.326Z"
     },
     "aelf": {
       "chain": "eth",
@@ -2588,7 +2588,7 @@
       "excludedFromTop10": 3,
       "holdersSampled": 67,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-25T07:54:58.141Z"
+      "sampledAt": "2026-10-29T05:37:33.448Z"
     },
     "based-brett": {
       "chain": "bsc",
@@ -2661,10 +2661,10 @@
       "rawTop10Pct": 98,
       "tier": "daily",
       "flagThreshold": 50,
-      "excludedFromTop10": 0,
+      "excludedFromTop10": 1,
       "holdersSampled": 93,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:28:23.557Z"
+      "sampledAt": "2026-10-29T06:14:16.761Z"
     },
     "lorenzo-protocol": {
       "chain": "bsc",
@@ -2984,17 +2984,17 @@
       "source": "blockscout",
       "partialSupply": true,
       "supplyCoverage": 0.26,
-      "top10Pct": 47.9,
+      "top10Pct": 47.8,
       "flagged": false,
       "neverFlag": false,
-      "contractsInTop10": 1,
-      "rawTop10Pct": 70.7,
+      "contractsInTop10": 0,
+      "rawTop10Pct": 70.8,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 6,
-      "holdersSampled": 63,
+      "holdersSampled": 62,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:26:14.736Z"
+      "sampledAt": "2026-10-29T06:13:25.328Z"
     },
     "akedo": {
       "chain": "bsc",
@@ -3026,7 +3026,7 @@
       "excludedFromTop10": 5,
       "holdersSampled": 83,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:25:32.654Z"
+      "sampledAt": "2026-10-29T06:13:14.259Z"
     },
     "janction": {
       "chain": "eth",
@@ -3043,7 +3043,7 @@
       "excludedFromTop10": 0,
       "holdersSampled": 99,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:13:28.154Z"
+      "sampledAt": "2026-10-29T05:37:44.903Z"
     },
     "venus": {
       "chain": "eth",
@@ -3093,9 +3093,9 @@
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 5,
-      "holdersSampled": 72,
+      "holdersSampled": 71,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:28:19.888Z"
+      "sampledAt": "2026-10-29T06:14:15.195Z"
     },
     "cysic": {
       "chain": "bsc",
@@ -3160,24 +3160,24 @@
       "excludedFromTop10": 0,
       "holdersSampled": 97,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:29:00.832Z"
+      "sampledAt": "2026-10-29T06:14:46.162Z"
     },
     "cap-4": {
       "chain": "eth",
       "address": "0x99991c6aabba5a096f24f250b73580f5179b9999",
       "source": "blockscout",
       "supplyCoverage": 1,
-      "top10Pct": 8.9,
+      "top10Pct": 9.3,
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 2,
-      "rawTop10Pct": 98.1,
+      "rawTop10Pct": 98.2,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 4,
-      "holdersSampled": 73,
+      "holdersSampled": 78,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:26:56.523Z"
+      "sampledAt": "2026-10-29T06:13:51.759Z"
     },
     "anvil": {
       "chain": "eth",
@@ -3194,7 +3194,7 @@
       "excludedFromTop10": 0,
       "holdersSampled": 97,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:25:08.892Z"
+      "sampledAt": "2026-10-29T06:13:07.812Z"
     },
     "skyai": {
       "chain": "bsc",
@@ -3279,13 +3279,13 @@
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 2,
-      "rawTop10Pct": 56.9,
+      "rawTop10Pct": 57,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 4,
       "holdersSampled": 89,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:24:31.427Z"
+      "sampledAt": "2026-10-29T06:12:57.987Z"
     },
     "subsquid": {
       "chain": "bsc",
@@ -3319,17 +3319,17 @@
       "address": "0xfc82bb4ba86045af6f327323a46e80412b91b27d",
       "source": "blockscout",
       "supplyCoverage": 1.04,
-      "top10Pct": 55.1,
+      "top10Pct": 55,
       "flagged": true,
       "neverFlag": false,
       "contractsInTop10": 7,
-      "rawTop10Pct": 72.5,
+      "rawTop10Pct": 72.4,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 3,
       "holdersSampled": 89,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:28:09.731Z"
+      "sampledAt": "2026-10-29T06:14:13.145Z"
     },
     "unitas": {
       "chain": "eth",
@@ -3563,17 +3563,17 @@
       "source": "blockscout",
       "partialSupply": true,
       "supplyCoverage": 0,
-      "top10Pct": 68.6,
+      "top10Pct": 67.7,
       "flagged": false,
       "neverFlag": false,
-      "contractsInTop10": 1,
-      "rawTop10Pct": 68.9,
+      "contractsInTop10": 2,
+      "rawTop10Pct": 67.8,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 1,
       "holdersSampled": 99,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:28:47.869Z"
+      "sampledAt": "2026-10-29T06:14:41.383Z"
     },
     "xyo-network": {
       "chain": "eth",
@@ -3613,17 +3613,17 @@
       "source": "blockscout",
       "partialSupply": true,
       "supplyCoverage": 0.16,
-      "top10Pct": 49.9,
+      "top10Pct": 48.2,
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 2,
-      "rawTop10Pct": 83.5,
-      "tier": "extended",
-      "flagThreshold": 70,
-      "excludedFromTop10": 4,
+      "rawTop10Pct": 82.8,
+      "tier": "daily",
+      "flagThreshold": 50,
+      "excludedFromTop10": 5,
       "holdersSampled": 81,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-24T04:23:36.151Z"
+      "sampledAt": "2026-10-29T05:37:31.731Z"
     },
     "blur": {
       "chain": "eth",
@@ -3773,26 +3773,26 @@
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 5,
-      "holdersSampled": 67,
+      "holdersSampled": 68,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:14:19.475Z"
+      "sampledAt": "2026-10-29T05:38:10.758Z"
     },
     "amp-token": {
       "chain": "eth",
       "address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
       "source": "blockscout",
       "supplyCoverage": 1,
-      "top10Pct": 33.8,
+      "top10Pct": 33.7,
       "flagged": false,
       "neverFlag": false,
       "contractsInTop10": 0,
-      "rawTop10Pct": 62.5,
+      "rawTop10Pct": 62.4,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 4,
-      "holdersSampled": 72,
+      "holdersSampled": 73,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:28:59.055Z"
+      "sampledAt": "2026-10-29T06:14:44.639Z"
     },
     "ankr": {
       "chain": "eth",
@@ -3959,7 +3959,7 @@
       "excludedFromTop10": 8,
       "holdersSampled": 83,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:14:25.884Z"
+      "sampledAt": "2026-10-29T05:38:12.429Z"
     },
     "bitdca": {
       "chain": "bsc",
@@ -4248,17 +4248,17 @@
       "source": "blockscout",
       "partialSupply": true,
       "supplyCoverage": 0,
-      "top10Pct": 29.5,
+      "top10Pct": 98.4,
       "flagged": false,
       "neverFlag": false,
-      "contractsInTop10": 6,
-      "rawTop10Pct": 70.7,
+      "contractsInTop10": 5,
+      "rawTop10Pct": 99.3,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 2,
-      "holdersSampled": 96,
+      "holdersSampled": 95,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:26:33.126Z"
+      "sampledAt": "2026-10-29T06:13:47.298Z"
     },
     "snowbank": {
       "chain": "avax",
@@ -4700,12 +4700,12 @@
       "neverFlag": false,
       "contractsInTop10": 5,
       "rawTop10Pct": 100,
-      "tier": "daily",
-      "flagThreshold": 50,
+      "tier": "extended",
+      "flagThreshold": 70,
       "excludedFromTop10": 0,
       "holdersSampled": 11,
       "holdersFetched": 11,
-      "sampledAt": "2026-10-18T04:14:22.939Z"
+      "sampledAt": "2026-10-29T06:14:53.187Z"
     },
     "robo-token-2": {
       "chain": "eth",
@@ -4873,7 +4873,7 @@
       "excludedFromTop10": 1,
       "holdersSampled": 94,
       "holdersFetched": 95,
-      "sampledAt": "2026-10-27T05:13:49.488Z"
+      "sampledAt": "2026-10-29T05:38:02.498Z"
     },
     "midas-fasanara-global-open": {
       "chain": "eth",
@@ -4907,7 +4907,7 @@
       "excludedFromTop10": 3,
       "holdersSampled": 97,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:13:52.841Z"
+      "sampledAt": "2026-10-29T05:38:04.273Z"
     },
     "iexec-rlc": {
       "chain": "eth",
@@ -4941,7 +4941,7 @@
       "excludedFromTop10": 9,
       "holdersSampled": 80,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:13:56.627Z"
+      "sampledAt": "2026-10-29T05:38:05.963Z"
     },
     "space-id": {
       "chain": "eth",
@@ -7941,17 +7941,17 @@
       "address": "0x236eb848c95b231299b4aa9f56c73d6893462720",
       "source": "blockscout",
       "supplyCoverage": 1,
-      "top10Pct": 3.1,
+      "top10Pct": 4,
       "flagged": false,
       "neverFlag": false,
-      "contractsInTop10": 6,
+      "contractsInTop10": 4,
       "rawTop10Pct": 99.4,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 5,
       "holdersSampled": 92,
       "holdersFetched": 100,
-      "sampledAt": "2026-10-27T05:13:32.346Z"
+      "sampledAt": "2026-10-29T05:37:49.526Z"
     },
     "divi": {
       "chain": "eth",
@@ -8237,18 +8237,18 @@
       "address": "0x997e2efbce91d170b00ea402e35a66c887ee1da9",
       "source": "blockscout",
       "partialSupply": true,
-      "supplyCoverage": 0.05,
-      "top10Pct": 11.1,
+      "supplyCoverage": 0.01,
+      "top10Pct": 4.5,
       "flagged": false,
       "neverFlag": false,
-      "contractsInTop10": 2,
+      "contractsInTop10": 0,
       "rawTop10Pct": 100,
       "tier": "daily",
       "flagThreshold": 50,
       "excludedFromTop10": 1,
-      "holdersSampled": 16,
-      "holdersFetched": 17,
-      "sampledAt": "2026-10-27T05:13:44.646Z"
+      "holdersSampled": 14,
+      "holdersFetched": 15,
+      "sampledAt": "2026-10-29T05:38:00.715Z"
     },
     "claudia-5": {
       "chain": "eth",
