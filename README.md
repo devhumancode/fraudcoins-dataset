@@ -6,8 +6,8 @@ On-chain **holder-concentration** measurements and **contract-permission** data
 for cryptocurrency tokens, published as plain JSON under CC BY 4.0.
 
 <!-- STATS:START -->
-Snapshot `2026-11-24` — 2,035 assets scored · 546 with an
-on-chain holder measurement (95 taken on the snapshot date) · 516 with
+Snapshot `2026-11-25` — 2,041 assets scored · 547 with an
+on-chain holder measurement (149 taken on the snapshot date) · 517 with
 wallet-level correction evidence · 432 with at least one contract permission reported
 (545 contracts queried).
 <!-- STATS:END -->
